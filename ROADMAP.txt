@@ -1,0 +1,11 @@
+06/2024
+
+- Ok, started !
+- First with MSX-BASIC then MSX-DOS and finally z80-assembly
+- Reorganize this repo in github
+
+11/2019
+
+- I've rehearsed to study MSX again...
+- I created the repo but it stops
+
